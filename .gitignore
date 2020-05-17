@@ -1,0 +1,4 @@
+backend/constants/stripe.js
+backend/node_modules
+frontend/src/constants/stripe.js
+frontend/node_modules
